@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:4:5-10:19
+INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:4:5-10:19
+	android:extractNativeLibs
+		INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:5:9-43
+	android:icon
+		ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:6:9-43
+meta-data#xposedmodule
+ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:7:9-70
+	android:value
+		ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:7:48-68
+	android:name
+		ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:7:20-47
+meta-data#xposedminversion
+ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:8:9-72
+	android:value
+		ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:8:52-70
+	android:name
+		ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:8:20-51
+meta-data#xposeddescription
+ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:9:9-113
+	android:value
+		ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:9:53-111
+	android:name
+		ADDED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:9:20-52
+uses-sdk
+INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml
+INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml

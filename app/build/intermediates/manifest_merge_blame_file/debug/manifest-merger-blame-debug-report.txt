@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="your.pkg"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <application
+11-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:4:5-10:19
+12        android:debuggable="true"
+13        android:extractNativeLibs="false"
+14        android:icon="@mipmap/ic_launcher"
+14-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:6:9-43
+15        android:label="RMS Chooser Bypass" >
+15-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:5:9-43
+16        <meta-data
+16-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:7:9-70
+17            android:name="xposedmodule"
+17-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:7:20-47
+18            android:value="true" />
+18-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:7:48-68
+19        <meta-data
+19-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:8:9-72
+20            android:name="xposedminversion"
+20-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:8:20-51
+21            android:value="93" />
+21-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:8:52-70
+22        <meta-data
+22-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:9:9-113
+23            android:name="xposeddescription"
+23-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:9:20-52
+24            android:value="Auto-select chat in chooser for RMS plugin" />
+24-->/data/data/com.termux/files/home/rms_chooser_bypass_lsposed/app/src/main/AndroidManifest.xml:9:53-111
+25    </application>
+26
+27</manifest>
