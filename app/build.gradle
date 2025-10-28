@@ -6,7 +6,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "your.pkg"
+        applicationId "rms.chooser.bypass"
         minSdk 24
         targetSdk 34
         versionCode 1
