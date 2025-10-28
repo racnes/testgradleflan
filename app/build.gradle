@@ -28,5 +28,6 @@ android {
 }
 
 dependencies {
+    compileOnly 'androidx.recyclerview:recyclerview:1.3.2'
     compileOnly files("libs/xposed-api-82.jar")
 }
